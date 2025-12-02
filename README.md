@@ -1,0 +1,1 @@
+Projeto para automatizar analise de dados, utilizando as bibliotecas Pyautogui e pandas, consiste basicamente em "acessar o sistema da empresa" e baixar uma base de dados, fazer a analise desses dados e posteriormente fazer o envio do relatório final por e-mail de forma automatica.
