@@ -6,7 +6,7 @@ Automação de download, análise e envio automático de relatórios extraídos 
 
 ## 📄 Descrição do Projeto
 
-O **DataFlow Automation** é um script desenvolvido em Python para automatizar a rotina de extração e análise de dados em empresas.  
+O **AAD&E** é um script desenvolvido em Python para automatizar a rotina de extração e análise de dados em empresas.  
 Ele:
 
 - acessa um site ou sistema interno da empresa,  
