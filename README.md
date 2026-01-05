@@ -9,7 +9,10 @@ Automação de download, análise e envio automático de relatórios extraídos 
 O **AADEnv** é um script desenvolvido em Python para automatizar a rotina de extração e análise de dados em empresas.  
 Ele:
 
-- acessa um site ou sistema interno da empresa,  
+
+- pega a posição do mouse
+- automatiza digitação
+- acessa um site ou sistema interno da empresa
 - baixa planilhas contendo dados (Excel / CSV ),  
 - processa e analisa esses dados com a biblioteca `pandas`,  
 - gera um resumo formatado dos resultados,  
