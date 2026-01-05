@@ -1,4 +1,4 @@
-#AAD&E - Automação de analise de dados e envios.
+#AADEnv - Automação de analise de dados e envios.
 
 Automação de download, análise e envio automático de relatórios extraídos de sistemas internos — entrega de resultados formatados diretamente no corpo do e-mail.
 
@@ -6,7 +6,7 @@ Automação de download, análise e envio automático de relatórios extraídos 
 
 ## 📄 Descrição do Projeto
 
-O **AAD&E** é um script desenvolvido em Python para automatizar a rotina de extração e análise de dados em empresas.  
+O **AADEnv** é um script desenvolvido em Python para automatizar a rotina de extração e análise de dados em empresas.  
 Ele:
 
 - acessa um site ou sistema interno da empresa,  
