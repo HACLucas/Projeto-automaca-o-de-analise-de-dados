@@ -45,13 +45,20 @@ Esta automação é ideal para tarefas repetitivas, economizando tempo e reduzin
 
 
 
-https://github.com/user-attachments/assets/3ffe4d5f-4a9f-4b55-a5de-73a0bf52e7e8
+https://github.com/user-attachments/assets/ca5a8ad3-f29b-4754-b947-43ab0d5b7f18
 
 
 
 
 
-https://github.com/user-attachments/assets/cc8d36ff-e2f5-488b-8617-aaa0b9e0cc3b
+
+
+https://github.com/user-attachments/assets/0c37fa7d-a452-4449-8219-2abb06ac5415
+
+
+
+
+
 
 
 
