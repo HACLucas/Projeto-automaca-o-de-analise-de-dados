@@ -36,7 +36,7 @@ Esta automação é ideal para tarefas repetitivas, economizando tempo e reduzin
 - **pandas** — manipulação e análise de dados (dataframes, limpeza, agregações) :contentReference[oaicite:0]{index=0}  
 - **smtplib** (ou biblioteca equivalente) — envio de e-mails via SMTP/servidor de e-mail :contentReference[oaicite:1]{index=1}  
 - **openpyxl** (caso use planilhas Excel) — leitura e manipulação de arquivos `.xlsx`  
-- (Opcional) **selenium** / **pyautogui** — automação de navegação e download, caso o sistema interno não ofereça API direta  
+- **pyautogui** — automação de navegação e download, caso o sistema interno não ofereça API direta  
 - Outras bibliotecas padrão de Python conforme necessário (`os`, `datetime`, etc.)
 
 ---
