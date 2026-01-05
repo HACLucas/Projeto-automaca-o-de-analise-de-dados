@@ -1,4 +1,4 @@
-#DataFlow Automation
+#AAD&E - Automação de analise de dados e envios.
 
 Automação de download, análise e envio automático de relatórios extraídos de sistemas internos — entrega de resultados formatados diretamente no corpo do e-mail.
 
@@ -11,7 +11,7 @@ Ele:
 
 - acessa um site ou sistema interno da empresa,  
 - baixa planilhas contendo dados (Excel / CSV ),  
-- processa e analisa esses dados com bibliotecas como `pandas`,  
+- processa e analisa esses dados com a biblioteca `pandas`,  
 - gera um resumo formatado dos resultados,  
 - envia automaticamente um e-mail com o relatório diretamente no corpo da mensagem.  
 
